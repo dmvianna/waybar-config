@@ -248,7 +248,7 @@
 #custom-arrow2 {
     font-size: 16px;
     color: @network;
-    background: @sound;
+    background: transparent;
 }
 
 #custom-arrow3 {
@@ -271,7 +271,7 @@
 
 #custom-arrow6 {
     font-size: 16px;
-    color: @layout;
+    color: @battery;
     background: @temp;
 }
 
